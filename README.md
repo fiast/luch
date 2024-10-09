@@ -169,4 +169,3 @@ sudo service apache2 restart
 sudo tail -f /var/log/apache2/error.log
 ```
 
-Если возникнут вопросы или нужны дополнительные пояснения, не стесняйся обращаться!
